@@ -2,7 +2,7 @@
 It's just a developer who wants to have some fun coding and sharing it through the world.
 
 # 💫 About Me:
-🔭 I am currently working on my degree and parallel courses.<br>🔥 This GitHub will definitely be great in a few months !<br>🌱 I have a lot of side projects to work on here but I'm a bit busy right now. :)<br>💬 You can contact me on Linkedin here<br>👀 (Just a little taste for you to wait : I build projects based on automation, AI and API in order to make useful tools for the IT life... and maybe more !)
+🔭 I am currently working on my degree and parallel courses.<br>🔥 This GitHub will definitely be great in a few months !<br>🌱 I have a lot of side projects to work on here but I'm a bit busy right now. :)<!--<br>💬 You can contact me on Linkedin here--><br>👀 (Just a little taste for you to wait : I build projects based on automation, AI and API in order to make useful tools for the IT life... and maybe more !)
 
 
 ## 🌐 Socials:
